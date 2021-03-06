@@ -1,0 +1,12 @@
+body {
+    font-family: Helvetica;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    background-color: coral;
+}
